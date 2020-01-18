@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">theHeroProject</string>
+    <string name="examen_practico">Examen Practico</string>
+    <string name="aplicaciones_moviles_y_sistemas_telematicos">Aplicaciones moviles y sistemas telematicos</string>
+    <string name="javier_benavides_y_jhostin_ocampo">Javier Benavides y Jhostin Ocampo</string>
+    <string name="buscar_herores">Buscar Heroes</string>
+    <string name="buscar_por_nombre">Buscar por nombre</string>
+    <string name="Encabezado"> Resultados </string>
+
+</resources>
